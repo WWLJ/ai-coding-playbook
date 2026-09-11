@@ -50,3 +50,7 @@
 ## License
 
 [MIT](LICENSE)
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for versioned updates.
